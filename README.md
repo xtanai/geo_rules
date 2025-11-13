@@ -1,6 +1,6 @@
 # Vision Geometry Rules
 
-A concise, practical set of formulas for camera FOV, coverage, pixel scale, fisheye rectification, and depth (Z) resolution. Drop this right into your GitHub repo.
+A concise, practical set of formulas for camera FOV, coverage, pixel scale, fisheye rectification, and depth (Z) resolution. 
 
 ## 1) Notation
 
