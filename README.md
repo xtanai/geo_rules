@@ -2,6 +2,8 @@
 
 A concise, practical set of formulas for camera FOV, coverage, pixel scale, fisheye rectification, and depth (Z) resolution. 
 
+> Note: Introductory only for now; I’ll extend it with advanced topics later.
+
 ## 1) Notation
 
 * `Ws, Hs` — sensor width/height (mm)
